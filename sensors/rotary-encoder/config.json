@@ -1,0 +1,11 @@
+{
+  "name": {"zh-cn": "旋转编码器（旋转与按压）", "en": "Rotary Encoder"},
+  "description": {"zh-cn": "支持4P S/S/V/G旋转信号及3P S/V/G按键，适用于Uno和掌控板上传模式。", "en": "Quadrature rotary encoder with optional push button for Uno and mPython."},
+  "author": "HAOTIANGUO22",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "rotaryencoder",
+  "platform": ["win", "mac"],
+  "version": "1.0.2",
+  "asset": {"arduinoC": {"dir": "arduinoC/", "version": "1.0.2", "board": ["arduino", "arduinounor3", "esp32"], "main": "main.ts"}}
+}

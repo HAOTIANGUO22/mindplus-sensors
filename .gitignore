@@ -1,0 +1,6 @@
+.verification/
+dist/
+__pycache__/
+releases/**/archive/
+sensors/*/examples/Uno/
+sensors/*/examples/Mpython/

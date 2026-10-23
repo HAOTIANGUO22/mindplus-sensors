@@ -1,0 +1,11 @@
+{
+  "name": {"zh-cn": "电位器（模拟旋钮）", "en": "Potentiometer"},
+  "description": {"zh-cn": "S/V/G模拟电位器，支持Uno和掌控板的原始读数、百分比、范围映射、平均采样和端点校准。", "en": "Analog potentiometer for Uno and mPython: raw, percent, scaling, averaging and endpoint calibration."},
+  "author": "HAOTIANGUO22",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "potentiometer",
+  "platform": ["win", "mac"],
+  "version": "1.0.0",
+  "asset": {"arduinoC": {"dir": "arduinoC/", "version": "1.0.0", "board": ["arduino", "arduinounor3", "esp32"], "main": "main.ts"}}
+}

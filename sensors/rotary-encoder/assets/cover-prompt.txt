@@ -1,0 +1,5 @@
+Generation mode: built-in image_gen.
+Reference: user-selected cropped cartoon rotary encoder image.
+Packaging: master resized to 600x372 for Mind+ featured.png.
+
+Edit the attached image into the final cover of a hardware extension. Keep exactly this charming 3D cartoon rotary encoder: black rounded-square PCB, FOUR gold ring mounting holes, gold decorative pictograms, central silver metal encoder and short slotted shaft. Preserve its visual identity, colors, shading and three-quarter top-down perspective. Keep pale cream background and turquoise curved rotation arrows surrounding the module. Recompose into a wide landscape canvas with aspect ratio 600:372 (approximately 1.613:1), with this ONE module centered prominently and fully visible; extend background naturally to left and right, balanced modest empty margins, no duplicated module. No text whatsoever: no title, no subtitle, no letters, no numbers, no brand, no watermark. Gold pictograms on PCB are fine. This is a text-free image, not a poster with headings. Keep full board and all four mounting holes within frame. Output high quality with crisp details.
